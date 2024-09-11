@@ -2,10 +2,10 @@
 
 Um programa em Java que Simula um Login/Cadastro guardando as informações em um Banco de Dados mySQL.
 
-## Pasta Projeto
+# Pasta Projeto
 
 Está o Desenvolvimento do Programa, códigos etc.
 
-## Pasta SQL
+# Pasta SQL
 
 Contém o Arquivo SQL para funcionar junto ao Programa
